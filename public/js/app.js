@@ -34,5 +34,5 @@ weatherForm.addEventListener('submit',(e)=>{
             
         })
     })
-    fy
+    
 })
